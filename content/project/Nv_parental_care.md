@@ -28,4 +28,4 @@ caption = "Photo Credit: Allen J. Moore"
 
 +++
 
-I interrogate the molecular mechanisms responsible for social behavior. I use many -omics techniques to address this aim. We use the elaborate and extended parental care of the burying beetle <i>Nicrophorus vespilloides</i> as our main study behavior and species.
+I interrogate the molecular mechanisms responsible for social behavior. I use many -omics techniques to address this aim. As a model social behaviour, I use the elaborate and extended parental care of the burying beetle <i>Nicrophorus vespilloides</i> as my main study behavior and species.
