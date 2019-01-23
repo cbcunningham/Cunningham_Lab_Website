@@ -29,6 +29,9 @@ abstract = "Behaviour is often on the front line response to changing environmen
 # Is this a selected publication? (true/false)
 selected = true
 
+# Is this the featured publication? (true/false)
+featured = true
+
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename of your project in `content/project/`.
