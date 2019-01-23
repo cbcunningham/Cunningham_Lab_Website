@@ -31,8 +31,6 @@ list_format = 2
 #  6: Book chapter
 publication_type = "-1"
 
-+++
-
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["<b>CB Cunningham</b>", "L Ji", "EC McKinney", "KM Benowitz", "RJ Schmitz", "AJ Moore"]
 
@@ -96,5 +94,4 @@ url_dataset = "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA375005"
 image = ""
 caption = ""
 
-+++
 
