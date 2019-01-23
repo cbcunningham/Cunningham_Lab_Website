@@ -15,5 +15,14 @@ weight = 60
 
 +++
 
+##Current
+
 - BIO258 - Animal Physiology
 - BIO340 - Professional Laboratory Skills
+
+##Previous
+
+- Comparative Vertebrate Morphology
+- Biology of Aggression
+- Comparative Physiology Laboratory
+- AP Environmental Science
