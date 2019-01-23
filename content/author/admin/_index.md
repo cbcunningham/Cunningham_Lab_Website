@@ -13,7 +13,7 @@ role = "Lecturer (Assistant Professor) of Behavioural Genetics and Social Neuros
 organizations = [ { name = "Swansea University", url = "https://www.swansea.ac.uk/bioscience/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I interrogate the molecular mechanisms that control social behaviour using molecular genetics and many -omics techniques. We are species agnostic, but our current focus is understanding the molecular mechanisms that underpin the parental care of the burying beetle <i>Nicrophorus vespilloides</i>."
+bio = "I am a Lecturer (Assistant Professor) of Behavioural Genetics and Social Neuroscience in the Department of Biosciences at Swansea University."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -88,3 +88,4 @@ interests = [
 
 +++
 
+I interrogate the molecular mechanisms that control social behaviour using molecular genetics and many -omics techniques. We are species agnostic, but our current focus is understanding the molecular mechanisms that underpin the parental care of the burying beetle <i>Nicrophorus vespilloides</i>.
