@@ -60,7 +60,7 @@ interests = [
 #   Full list: https://jpswalsh.github.io/academicons/
 
 [[social]]
-  icon = "envelope"
+  icon = "paper-plane"
   icon_pack = "fas"
   link = "#contact"  # For a direct email link, use "mailto:c.b.cunningham@swansea.ac.uk".
 
