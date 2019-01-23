@@ -15,12 +15,12 @@ weight = 60
 
 +++
 
-##Current
+## Current
 
 - BIO258 - Animal Physiology
 - BIO340 - Professional Laboratory Skills
 
-##Previous
+## Previous
 
 - Comparative Vertebrate Morphology
 - Biology of Aggression
