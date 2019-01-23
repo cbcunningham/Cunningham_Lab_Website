@@ -9,7 +9,7 @@ title = "Molecular Mechanisms of Social Behaviour"
 summary = "The genetics and epigenetics of parental care."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = "Mother_feed_larva.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
