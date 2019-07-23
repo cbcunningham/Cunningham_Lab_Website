@@ -3,7 +3,7 @@
 authors = ["<b>CB Cunningham</b>", "L Ji", "EC McKinney", "KM Benowitz", "RJ Schmitz", "AJ Moore"]
 
 title = "Changes of gene expression but not cytosine methylation are associated with male parental care reflecting behavioural state, social context, and individual flexibility"
-date = 2018-09-01T00:00:00
+date = 2019-03-01T00:00:00
 
 # Publication type.
 # Legend:
@@ -17,7 +17,7 @@ date = 2018-09-01T00:00:00
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of Experimental Biology, jeb.188649"
+publication = "Journal of Experimental Biology 222, jeb.188649"
 publication_short = ""
 
 # Abstract and optional shortened version.
