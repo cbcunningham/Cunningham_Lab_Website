@@ -30,7 +30,7 @@ abstract = "Sexual dimorphism often arises as a response to selection on traits 
 selected = false
 
 # Is this the featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
