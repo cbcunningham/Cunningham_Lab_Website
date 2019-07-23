@@ -6,7 +6,7 @@ name = "Christopher B. Cunningham"
 superuser = true
 
 # Role/position
-role = "Lecturer (Assistant Professor) of Behavioural Genetics and Social Neuroscience"
+role = "Lecturer (Tenure-Track Assistant Professor)<br>of Behavioural Genetics and Social Neuroscience"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
