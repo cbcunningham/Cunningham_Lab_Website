@@ -3,7 +3,7 @@
 authors = ["KM Benowitz", "EC McKinney", "<b>CB Cunningham</b>", "EC McKinney", "AJ Moore"]
 
 title = "Predictable gene expression related to behavioral variation in parenting"
-date = 2018-12-26T00:00:00
+date = 2019-02-01T00:00:00
 
 # Publication type.
 # Legend:
@@ -17,7 +17,7 @@ date = 2018-12-26T00:00:00
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Behavioral Ecology, ary179"
+publication = "Behavioral Ecology 30, 402-407"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -38,7 +38,7 @@ projects = ["Nv_parental_care"]
 # Links (optional).
 url_pdf = "https://academic.oup.com/beheco/advance-article/doi/10.1093/beheco/ary179/5261351"
 # url_code = "https://www.biorxiv.org/content/early/2017/02/14/108266.full.pdf"
-# url_dataset = "#"
+url_dataset = "https://doi.org/10.5061/dryad.n4d73sg/1"
 # url_project = "#"
 # url_slides = "#"
 # url_video = "#"
