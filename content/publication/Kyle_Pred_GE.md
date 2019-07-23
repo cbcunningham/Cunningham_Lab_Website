@@ -61,8 +61,8 @@ url_dataset = "https://doi.org/10.5061/dryad.n4d73sg/1"
 image = ""
 caption = ""
 
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+# <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
-<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/beheco/ary179" data-hide-no-mentions="true" class="altmetric-embed"></div>
+# <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/beheco/ary179" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 +++
