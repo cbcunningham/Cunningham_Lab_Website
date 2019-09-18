@@ -19,6 +19,7 @@ weight = 60
 
 - BIO258 - Animal Physiology
 - BIO340 - Professional Laboratory Skills
+- BIO350 - Biosciences Research Project
 
 ## Previous
 
